@@ -14,3 +14,5 @@ Desafortunadamente no pude terminar la misión de FrontEnd 😔, a pesar de que 
 
 Y para terminar, estoy muy emoncionado con esta nueva misión, en cuanto me enteré que podría abordar aunque no hubiera terminado la anterior di un salto de alegría 🤣
 ya que en realidad, me gusta más bien poco el diseño y prefiero más el apartado lógico. 😎
+
+¡Hasta la próxima!
